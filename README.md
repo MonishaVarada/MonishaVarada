@@ -1,7 +1,21 @@
 - 👋 Hi, I’m @MonishaVarada
-- 👀 I’m interested in WEB
-- 🌱 I’m currently learning COMPUTER SCIENCE AND ENGINEERING
-- 💞️ I’m looking to collaborate on 
+ Aspiring Data Analyst & Data Science Enthusiast
+
+🔍 Focused on Data-Driven Solutions:
+Data Analysis & Visualization: Proficient in Python, SQL, and Power BI
+Data Science Foundations: IBM Certified in Python 101 for Data Science
+Strong understanding of algorithms, data structures, and database management
+
+📈 Projects & Experience:
+Designed and implemented phone purchasing systems using Python
+Currently building projects focused on data analysis, business intelligence, and cloud-based applications
+
+💼 Skills:
+Programming: Python (Pandas, NumPy, Matplotlib), SQL
+Data Visualization: Power BI, Matplotlib
+Analytical Tools: Data Wrangling, Data Cleaning, Statistical Analysis
+
+🔗 Let’s connect and collaborate on data-driven projects!
 - 📫 How to reach me monishavarada20@gmail.com
 
 <!---
